@@ -5,4 +5,4 @@ calculator :- calculator with store data history
 number game :- random number generator game 
 password generator:- random password generator 
 fake news genertor :- generate the funny fake news 
-word game :- guessing the word with hint 
+word game :- guessing the word with hint
